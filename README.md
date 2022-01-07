@@ -1,0 +1,2 @@
+# ClipResizer
+ Will resize clips.
